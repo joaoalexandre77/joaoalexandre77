@@ -20,10 +20,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoalexandre77&show_icons=true&theme=dracula&locale=pt-br"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=joaoalexandre77&show_icons=true&theme=dracula&locale=pt-br"/>
       </td>
       <td>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalexandre77&layout=compact&theme=dracula&locale=pt-br"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalexandre77&layout=compact&theme=dracula&locale=pt-br"/>
       </td>
     </tr>
   </table>
