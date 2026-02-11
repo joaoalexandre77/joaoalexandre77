@@ -13,18 +13,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="git" />
 </div>
-
-## Estatísticas
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoalexandre77&show_icons=true&theme=dracula"/>
-      </td>
-      <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalexandre77&layout=compact&theme=dracula"/>
-      </td>
-    </tr>
-  </table>
-</div>
