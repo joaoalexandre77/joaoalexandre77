@@ -1,10 +1,10 @@
 
 # Olá! Eu sou o João Alexandre
-```Desenvolvedor front-end```
+```Desenvolvedor back-end```
 
 🎓 Curso Técnico em Desenvolvimento de Sistemas na ETEC (SP) (3/3)
 
-📚 Cursando Desenvolvimento de Software Multiplataforma (DSM) na Fatec-Registro (2/6)
+📚 Cursando Desenvolvimento de Software Multiplataforma (DSM) na Fatec-Registro (3/6)
 ## linguagens e tecnologias
 
 <div align="left">
